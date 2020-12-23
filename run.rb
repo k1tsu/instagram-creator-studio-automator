@@ -7,7 +7,7 @@ questions = [
     "facebook password",
     "start date (format:day,month,year)", 
     "end date (format:day,month,year)", 
-    "times in 24 hour format (format:time1,time2,time3,...)",
+    "daily times in 24 hour format (format:time1,time2,time3,...)",
     "account-name",
     "file-diretory",
     "caption"
