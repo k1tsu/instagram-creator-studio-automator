@@ -1,0 +1,2 @@
+gem 'fastimage'
+gem 'watir'
