@@ -1,5 +1,6 @@
 # instagram-creator-studio-automator
-Used for automated scheduling in instagram's creator studio using selenium and date ranges. **Use at your own risk.**
+Used for automated scheduling in instagram's creator studio using selenium and date ranges. Comes with estimative image cropping. 
+**Use at your own risk.**
 
 ## How to use
 
