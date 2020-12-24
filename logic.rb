@@ -1,4 +1,5 @@
 require 'date'
+require 'active_support/all'
 require 'fastimage'
 
 class EmpQueue
