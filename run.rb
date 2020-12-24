@@ -24,9 +24,9 @@ end
 start_day, start_month, start_year = attrs[2].split(",")
 end_day, end_month, end_year = attrs[3].split(",")
 times = attrs[4].split(",")
+caption = attrs[7]
 
 puts attrs
-
 
 queue = EmpQueue.new(
     Time.new(start_year, start_month, start_day, "+00:00"), 
@@ -55,5 +55,6 @@ total_time = Benchmark.measure do
     end
 
 end
+
 queue.cleanup()
 puts total_time
